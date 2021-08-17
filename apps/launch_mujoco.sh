@@ -1,0 +1,1 @@
+~/.mujoco/mujoco200/bin/simulate ./resources/scenes/mjmodel.mjb
